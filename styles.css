@@ -12,3 +12,6 @@ p {
     font-size: 180%;
     font-family: 'Courier New', Courier, monospace;
 }
+a {
+    text-decoration: none;
+}
