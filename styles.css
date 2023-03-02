@@ -10,10 +10,9 @@ p {
 
 }
 
-.links {
+ul {
     font-size: 180%;
     font-family: 'Courier New', Courier, monospace;
-    color: #232AC2;
 }
 
 a {
