@@ -1,28 +1,26 @@
 h1 {
     font-size: 250%;
     font-family: 'Courier New', Courier, monospace;
-
+    color: #0478F3;
 }
 
 p {
     font-size: 150%;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-
+    color: #0350A1;   
 }
 
 li {
     font-size: 150%;
     font-family: 'Courier New', Courier, monospace;
-    
+    color: #0478F3;
 }
 
 a {
     text-decoration: none;
-    font-weight: bold;
-
+    
 }
 
 body {
-    background-image: url(new1.png);
+    background-color: #B1CFEF;
 }    
