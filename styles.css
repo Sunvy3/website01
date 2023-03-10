@@ -5,12 +5,14 @@ h1 {
 
 p {
     font-size: 150%;
-    font-family:'Tilt Neon', cursive;  
+    font-family:'Tilt Neon', cursive;
+      
 }
 
 li {
     font-size: 150%;
     font-family: 'Tilt Neon', cursive;
+    
 }
 
 a {
@@ -25,5 +27,7 @@ body {
 #poem {
     text-align: center;
 }
+
+
 
   
