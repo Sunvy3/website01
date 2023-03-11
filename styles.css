@@ -24,6 +24,7 @@ a {
 
 body {
     margin: 5%;
+    background-color: #F7F1E5;
 }
 
 #poem {
@@ -31,7 +32,8 @@ body {
 }
 
 .section {
-    margin-bottom: 5%;
+    padding: 5%;
+    
 }
 
 
