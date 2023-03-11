@@ -1,16 +1,15 @@
 h1 {
-    font-family: 'Merriweather', serif;
+    font-family: 'Tilt Neon', cursive;
 }
 
 p {
-    font-family: 'Merriweather', serif;
+    font-family: 'Tilt Neon', cursive;
     font-size: 130%;
-    font-weight: 100;
 
 }
 
 li {
-    font-family: 'Merriweather', serif;
+    font-family: 'Tilt Neon', cursive;
     font-size: 130%;
 
 
@@ -34,4 +33,5 @@ body {
 
 .next-page {
     font-size: larger;
+    font-family: 'Tilt Neon', cursive;
 }
