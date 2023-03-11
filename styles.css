@@ -22,17 +22,13 @@ a {
     
 }
 
-body {
-    margin: 5%;
-}
-
 #poem {
     text-align: center;
 }
 
 .section {
-    margin-bottom: 5%;
-    
+    margin: 5% auto;
+    width: 70%;
 }
 
 
