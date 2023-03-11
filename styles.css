@@ -1,19 +1,19 @@
 h1 {
-    font-size: 220%;
-    font-family:'Tilt Neon', cursive;
+    font-family: 'Rammetto One', cursive;
     
 }
 
 p {
-    font-size: 150%;
-    font-family:'Tilt Neon', cursive;
-    font-weight: 200;       
+    font-family: 'Rammetto One', cursive;
+    font-size: 120%;
+           
 }
 
 li {
-    font-size: 150%;
-    font-family: 'Tilt Neon', cursive;
-    font-weight: 200;
+    
+    font-family: 'Rammetto One', cursive;
+    font-size: 120%;
+    
     
 }
 
