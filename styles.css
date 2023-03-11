@@ -1,20 +1,19 @@
 h1 {
-    font-family: 'Rammetto One', cursive;
-    
+    font-family: 'Merriweather', serif;
 }
 
 p {
-    font-family: 'Rammetto One', cursive;
-    font-size: 120%;
-           
+    font-family: 'Merriweather', serif;
+    font-size: 130%;
+    font-weight: 100;
+
 }
 
 li {
-    
-    font-family: 'Rammetto One', cursive;
-    font-size: 120%;
-    
-    
+    font-family: 'Merriweather', serif;
+    font-size: 130%;
+
+
 }
 
 a {
@@ -28,10 +27,11 @@ a {
 .section {
     margin-bottom: 5%;
 }
+
 body {
     margin: 5%;
 }
 
-
-
-  
+.next-page {
+    font-size: larger;
+}
